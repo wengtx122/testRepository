@@ -3,7 +3,7 @@ package com.shop.domain;
 import java.util.Date;
 
 public class User {
-    private Integer id;
+    private Integer id2;
 
     private String username;
 
